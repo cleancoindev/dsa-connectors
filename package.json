@@ -29,7 +29,7 @@
     "dotenv": "^7.0.0",
     "ethereumjs-abi": "^0.6.8",
     "minimist": "^1.2.5",
-    "solc": "^0.6.0",
+    "solc": "^0.8.13",
     "truffle-assertions": "^0.9.2",
     "truffle-hdwallet-provider": "^1.0.17",
     "truffle-plugin-verify": "^0.3.10",
